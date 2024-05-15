@@ -1,4 +1,8 @@
 package probak;
+/**
+ * adibide honen egokitzapena
+ * https://github.com/SeleniumHQ/seleniumhq.github.io/blob/trunk/examples/java/src/test/java/dev/selenium/getting_started/UsingSeleniumTest.java
+ */
 
 import static org.junit.Assert.assertEquals;
 
